@@ -3,3 +3,4 @@ Team Members:
 - Aidan Ortega
 - Hector Ortega
 - Xavier Gacusan
+- Austin St Peter
